@@ -1,6 +1,16 @@
 # PhD by Published Work Portfolio
 ## Jason Duran Dutton
 
+## Academic Review Permission
+
+Universities, faculty advisors, dissertation committees, peer reviewers,
+journal editors, examiners, and research supervisors are explicitly
+authorized to access, download, archive, review, and evaluate the
+contents of this repository for scholarly and academic purposes.
+
+Commercial use and derivative commercialization remain prohibited without
+written permission from the author.
+
 This repository contains the primary research portfolio supporting a proposed PhD by Published Work submission.
 
 The portfolio documents the development of an interdisciplinary research program spanning systems engineering, geometric modeling, dynamical systems, computational frameworks, quantum information concepts, biological modeling, and volumetric visualization technologies.
