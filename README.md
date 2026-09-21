@@ -1,32 +1,22 @@
 # PhD by Published Work Portfolio
 ## Jason Duran Dutton
 
-## Academic Review Permission
+This repository serves as the primary research archive supporting a proposed PhD by Published Work submission.
 
-Universities, faculty advisors, dissertation committees, peer reviewers,
-journal editors, examiners, and research supervisors are explicitly
-authorized to access, download, archive, review, and evaluate the
-contents of this repository for scholarly and academic purposes.
+The portfolio documents the development of an interdisciplinary research program spanning:
 
-Commercial use and derivative commercialization remain prohibited without
-written permission from the author.
+- Systems Engineering
+- Mathematical Modeling
+- Geometric Field Frameworks
+- Dynamical Systems
+- Complex Adaptive Systems
+- Quantum Information Concepts
+- Biological Systems Modeling
+- Volumetric Visualization Technologies
 
-This repository contains the primary research portfolio supporting a proposed PhD by Published Work submission.
+The repository contains peer-review manuscripts, software implementations, validation frameworks, engineering concepts, dissertation development materials, and supporting research artifacts developed as part of a unified research program.
 
-The portfolio documents the development of an interdisciplinary research program spanning systems engineering, geometric modeling, dynamical systems, computational frameworks, quantum information concepts, biological modeling, and volumetric visualization technologies.
-
-The repository contains:
-
-- Peer-review manuscripts
-- Dissertation source materials
-- Mathematical derivations
-- Software implementations
-- Validation frameworks
-- Engineering application studies
-- Hardware visualization concepts
-- Supporting research artifacts
-
-The materials are intended to be evaluated as components of a unified research program rather than as isolated publications.
+The publications, software frameworks, engineering applications, and dissertation materials are intended to be evaluated collectively as components of a single evolving body of work.
 
 ---
 
@@ -39,19 +29,33 @@ This repository is published for:
 - Peer review
 - PhD by Published Work assessment
 - Educational study
-- Research discussion and citation
+- Research discussion
 
-The manuscripts, figures, software, mathematical derivations, engineering concepts, and supporting materials remain the intellectual property of the author unless otherwise specified.
+The manuscripts, figures, mathematical derivations, software implementations, engineering concepts, hardware architectures, and supporting materials remain the intellectual property of the author unless otherwise specified.
 
-Commercial implementation, redistribution, republishing, derivative commercial development, manufacturing, licensing, or resale of any repository content requires explicit written permission from the author.
+Universities, faculty advisors, dissertation committees, examiners, journal editors, peer reviewers, and research supervisors are explicitly authorized to access, review, archive, and evaluate the contents of this repository for scholarly purposes.
+
+Commercial implementation, redistribution, republishing, derivative commercialization, manufacturing, licensing, or resale of repository materials requires written permission from the author.
+
+---
+
+# Research Program Overview
+
+The research program investigates how stability, persistence, identity, curvature, correction, and dynamical evolution may be described through common geometric structures across:
+
+- Physical systems
+- Biological systems
+- Information systems
+- Quantum-information architectures
+- Engineered systems
+
+The body of work evolved sequentially through a series of manuscripts, software implementations, and engineering applications.
+
+Reviewers are encouraged to follow the reading order below.
 
 ---
 
 # Recommended Evaluation Sequence
-
-The portfolio should be reviewed in the following order.
-
-Each component builds directly upon prior work.
 
 ---
 
@@ -74,15 +78,15 @@ Journal of Mathematical Physics
 JMP26-AR-02470
 ```
 
-This manuscript establishes the foundational worldline geometry used throughout the broader research program.
+This manuscript establishes the foundational geometric framework of the research program.
 
 Topics include:
 
 - Worldline geometry
 - Curvature structures
-- Field emergence
 - Geometric particle modeling
 - Dynamical trajectories
+- Field emergence
 
 ---
 
@@ -103,16 +107,15 @@ Journal of Mathematical Physics
 JMP26-AR-02501
 ```
 
-This manuscript introduces the identity-space framework upon which later developments depend.
+This manuscript introduces the identity-space formalism and defines the Origin, Authorship, Sovereignty, and Warp structures used throughout subsequent work.
 
 Topics include:
 
-- Origin
-- Authorship
-- Sovereignty
-- Warp Expression
 - Identity-space geometry
-- Field-layer structure
+- Identity invariants
+- Formal mathematical construction
+- Layered field structures
+- Geometric identity
 
 ---
 
@@ -133,15 +136,15 @@ AIP Advances
 ADV26-AR-04665
 ```
 
-This work develops the dynamical coupling of GWFM and SEFI through a variational framework and stability manifold structure.
+This manuscript develops the dynamical coupling between GWFM and SEFI through a variational framework and stability-manifold structure.
 
 Topics include:
 
+- Variational dynamics
 - Stability manifolds
+- Coupled systems
 - Dynamical invariants
-- Variational principles
-- Coupled geometric systems
-- Identity-space dynamics
+- Identity-space evolution
 
 ---
 
@@ -162,7 +165,7 @@ Journal of Mathematical Physics
 JMP26-AR-02666
 ```
 
-This manuscript serves as the synthesis document of the research program.
+This manuscript serves as the primary synthesis work of the research program.
 
 It integrates:
 
@@ -170,9 +173,9 @@ It integrates:
 - SEFI
 - DEFI
 - Stability manifolds
-- Photonic systems
+- Photonic implementations
 - Cosmological extensions
-- Unified operator frameworks
+- Unified transformation operators
 
 ---
 
@@ -192,12 +195,12 @@ Capabilities include:
 
 - Geometric modeling
 - Identity-space computation
-- Mathematical operators
+- Mathematical operator evaluation
 - Visualization workflows
 - Research experimentation
 - Validation support
 
-SEFI-PY functions as the software implementation layer connecting theory to computation.
+SEFI-PY functions as the computational bridge between theoretical development and software implementation.
 
 ---
 
@@ -209,38 +212,39 @@ Archive:
 05_SEFI_QEC_STACK/
 ```
 
-Active Repository:
+Repository:
 
 ```text
 https://github.com/JasonSEFIDEFI/SEFI_QEC_Stack
 ```
 
-The SEFI_QEC_Stack serves as the primary quantum-information and error-correction software framework associated with this research portfolio.
+The SEFI_QEC_Stack serves as the primary quantum-information and error-correction implementation associated with the research portfolio.
 
 Capabilities include:
 
 - Stabilizer evaluation
-- Syndrome analysis
-- Geometric correction workflows
+- Syndrome processing
+- Error geometry
 - Displacement tracking
+- Correction workflows
 - Validation experiments
-- Quantum-information investigations
-
-The archive included in this repository represents a portfolio snapshot. Active development continues in the linked repository.
+- Research testing infrastructure
 
 Research lineage:
 
 ```text
 GWFM
-  ↓
+ ↓
 SEFI
-  ↓
+ ↓
 DEFI
-  ↓
+ ↓
 SEFI_QEC_Stack
-  ↓
+ ↓
 Photonic Quantum Error Correction
 ```
+
+The archive included in this repository serves as an evaluation snapshot. Active software development continues within the dedicated repository.
 
 ---
 
@@ -263,18 +267,19 @@ AIP Advances
 ADV26-AR-04574
 ```
 
-Application of the core frameworks to photonic quantum-information systems and geometric error correction.
+Application of the framework to quantum-information systems and geometric quantum error correction.
 
 Topics include:
 
-- Syndrome geometry
+- Stabilizer geometry
+- Syndrome spaces
 - Error manifolds
-- Stabilizer structures
 - Photonic implementations
+- Correction mapping
 
 ---
 
-## 8. Biological Systems
+## 8. Biological Systems Modeling
 
 ### DNA as a Golden-Ratio Helical Worldline
 
@@ -291,14 +296,14 @@ AIP Advances
 ADV26-AR-04675
 ```
 
-Application of the research framework to biological geometry and topological stabilization.
+Application of the framework to biological geometry and topological stabilization.
 
 Topics include:
 
 - DNA geometry
-- Frenet-Serret analysis
-- Helical structures
-- Topological stability
+- Frenet-Serret invariants
+- Helical worldlines
+- Topological identity stabilization
 
 ---
 
@@ -319,14 +324,15 @@ AIP Advances
 ADV26-AR-04652
 ```
 
-Engineering-focused application exploring displacement fields, stability surfaces, geometric constraints, and motion envelopes.
+Engineering-oriented application exploring displacement fields, stability surfaces, and geometric motion constraints.
 
 Topics include:
 
 - Geometric displacement
-- Stability analysis
+- Stability surfaces
 - Boundary-layer structures
-- Flight-envelope constraints
+- Operational envelopes
+- Engineering constraints
 
 ---
 
@@ -342,24 +348,24 @@ Directory:
 09_VOXEL/
 ```
 
-This work explores a physical visualization platform driven by geometric trajectory generation.
+This project explores a physical visualization platform driven by geometric trajectory generation.
 
 Topics include:
 
 - Acoustic levitation
+- Dynamic voxel control
 - Volumetric rendering
-- Dynamic voxel systems
 - Geometric visualization
 - Scientific display systems
 - Human-computer interaction
 
-The system provides a physical visualization mechanism for geometric structures generated throughout the framework.
+The system provides a proposed hardware platform for physically rendering geometric structures generated throughout the broader research program.
 
 ---
 
-# Part V — Dissertation Synthesis
+# Part V — Dissertation Development
 
-## 11. Dissertation Materials
+## 11. Research Synthesis and Dissertation Materials
 
 Directory:
 
@@ -367,7 +373,40 @@ Directory:
 10_DISSERTATION/
 ```
 
-The dissertation synthesizes the publication record, software implementations, mathematical developments, and engineering applications into a unified scholarly work suitable for doctoral evaluation.
+Contents include:
+
+- Research synthesis drafts
+- Dissertation development materials
+- Cross-publication integration documents
+- Canon references
+- Framework summaries
+- Terminology references
+
+### Current Draft
+
+**SEFI: The Big Picture**
+
+A working synthesis document intended to consolidate:
+
+- Assumptions
+- Derivations
+- Boundary conditions
+- Limiting cases
+- Stability analysis
+- Numerical prototypes
+- Experimental protocols
+- Validation pathways
+- Applications
+- Falsifiability criteria
+
+Status:
+
+```text
+Work In Progress
+Dissertation Development Document
+```
+
+This material serves as a precursor to a formal doctoral synthesis tying together the broader publication portfolio.
 
 ---
 
@@ -396,23 +435,28 @@ README.md
 
 # Professional Background
 
-The research contained within this repository was developed alongside professional work in:
+This research program was developed alongside professional experience in:
 
-- Systems engineering
-- Industrial operations
-- Field engineering
-- Reliability analysis
-- Technical leadership
-- Infrastructure systems
+- Systems Engineering
+- Industrial Operations
+- Reliability Analysis
+- Technical Leadership
+- Infrastructure Systems
+- Field Engineering
 
-The combination of engineering practice and independent theoretical investigation forms the foundation of the broader research program.
+The combination of practical engineering experience and independent theoretical investigation forms the foundation of the broader research effort.
+
+---
+
+# Current Publication Pipeline
+
+Active manuscripts are currently progressing through journal review pipelines, while additional work continues through software development, validation studies, and dissertation synthesis activities.
 
 ---
 
 # Contact
 
-Jason Duran Dutton
-
+**Jason Duran Dutton**  
 Castlewood, Virginia, USA
 
 GitHub:
@@ -421,4 +465,4 @@ GitHub:
 https://github.com/JasonSEFIDEFI
 ```
 
-This repository serves as the master archive for the research program and associated PhD by Published Work portfolio.
+This repository serves as the master archive for the research portfolio and associated PhD by Published Work materials.
