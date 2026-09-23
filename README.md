@@ -1,4 +1,16 @@
 # PhD by Published Work Portfolio
+
+
+## Research checkpoint for discussion with Dr. Ersoy
+
+New materials dated 23 September 2026:
+
+- [Dr. Ersoy discussion brief — PDF](10_DISSERTATION/research_direction_2026_09_23/dr_ersoy_discussion_2026_09_23.pdf) | [editable text](10_DISSERTATION/research_direction_2026_09_23/dr_ersoy_discussion_2026_09_23.md)
+- [Mathematical research direction — PDF](10_DISSERTATION/research_direction_2026_09_23/research_direction_2026_09_23.pdf) | [equations and editable text](10_DISSERTATION/research_direction_2026_09_23/research_direction_2026_09_23.md)
+- [Isolated computational research and evidence](https://github.com/JasonSEFIDEFI/SEFI-PY/tree/main/SEFI-PY%20Evolution/research/physical_matter_2026_09_23)
+
+The explicit goal is to derive physical matter and test whether field excitations can generate a universally experienced geometry. That goal remains open. Current results comprise moving classical charged-loop candidates, limited perturbation checks, a time-harmonic rest-state obstruction for the baseline parameters, and unsuccessful initial searches after a proposed parameter change. These documents are for research discussion and independent review; they are not a completed physical theory or a journal submission.
+
 ## Jason Duran Dutton
 
 This repository serves as the primary research archive supporting a proposed PhD by Published Work submission.
