@@ -1,4 +1,148 @@
-# PhD by Published Work Portfolio
+SEFI–DEFI–GWFM Unified Geometric Field Program
+PhD by Published Work — Research Portfolio
+Jason Duran Dutton  
+Independent Theoretical Researcher
+Castlewood, Virginia, USA
+GitHub Portfolio: github.com/JasonSEFIDEFI
+
+1. Program Overview
+The SEFI–DEFI–GWFM Unified Geometric Field Program develops a single continuous‑entity geometric framework capable of generating field behavior, stability, coherence, excitation structure, and correction dynamics across physical, technological, and engineered systems.
+
+This research program integrates three foundational components:
+
+SEFI — Single Entity Field Interpretation
+
+DEFI — Dynamic Entity Field Integration
+
+GWFM — Geometric Worldline Field Model
+
+Together, these form a unified geometric theory with applications in quantum photonics, warp‑field geometry, and distributed dynamical systems.
+
+This repository contains the complete publication portfolio submitted for the University of Westminster — PhD by Published Work.
+
+2. Core Theoretical Foundations
+2.1 Geometric Worldline Foundations (GWFM)
+GWFM models the electron field and quantum excitations as manifestations of a single continuous worldline embedded in spacetime. Curvature and torsion invariants generate field behavior, statistics, and stability.
+
+2.2 Single Entity Field Interpretation (SEFI)
+SEFI introduces a geometric identity space and warp‑metric that encode coherence, identity, and stability constraints. This provides a unified geometric language for field identity and excitation formation.
+
+2.3 Dynamic Entity Field Integration (DEFI)
+DEFI supplies the coupled Lagrangian law binding worldline geometry and identity‑space dynamics. It unifies SEFI and GWFM into a single evolution equation governing field behavior and stability.
+
+These three pillars form the theoretical backbone of the unified program.
+
+3. Applied Research Streams
+3.1 Geometric Photonic Quantum Error Correction
+A geometric QEC framework using curvature, torsion, and stability surfaces to design photonic error‑correcting codes.
+
+Outputs:
+
+Geometric Photonic QEC Manuscript
+
+SEFI_QEC_Stack — modular QEC engine
+
+SEFI‑PY — geometric field simulation engine
+
+Impact:  
+Addresses scalability and stability bottlenecks in photonic quantum computing.
+
+3.2 Displacement‑Engineered Warp Fields
+A geometric model for warp‑like displacement fields using SEFI warp‑metrics, stability surfaces, and identity‑space confinement.
+
+Outputs:
+
+Warp‑Field Geometry Manuscript
+
+Engineering‑ready geometric modeling framework
+
+Impact:  
+Provides a rigorous geometric language for advanced propulsion modeling and spacetime engineering.
+
+3.3 Geometric Operator Framework for Distributed Systems
+A unified operator set—gradient, curvature, transport, restoring, fatigue—describing stability, accumulated loading, and coherence in distributed dynamical systems.
+
+Outputs:
+
+Big Picture Manuscript
+
+Manifold mechanics sections in the dissertation
+
+Impact:  
+Offers a general stability and correction language for complex systems across physics, engineering, and computation.
+
+4. Supplemental Domain (Delegated)
+4.1 DNA Geometry
+The DNA worldline model demonstrates DEFI stability principles in biological geometry.
+This domain is included as a proof‑of‑concept and is intended for hand‑off to biophysical collaborators.
+
+You remain outside biomedical practice; this maintains appropriate disciplinary boundaries.
+
+5. Software Infrastructure (Open Research Program)
+5.1 SEFI‑PY Engine
+Geometric field simulation engine implementing SEFI–DEFI–GWFM structures.
+
+5.2 SEFI_QEC_Stack
+Modular quantum‑error‑correction engine for stabilizer evaluation, syndrome transport, and geometric correction.
+
+5.3 Public GitHub Research Portfolio
+All manuscripts, engines, and workflows are openly maintained across:
+
+SEFI‑Manuscripts
+
+PhD
+
+CV‑
+
+SEFI‑PY
+
+SEFI_QEC_Stack
+
+This ensures transparency, reproducibility, and long‑term viability.
+
+6. Program Objectives
+Unify field behavior through a single continuous‑entity geometric framework.
+
+Apply geometric stability principles to quantum photonics and warp‑field modeling.
+
+Generalize manifold mechanics to distributed systems and engineering domains.
+
+Maintain an open research program with reproducible software engines.
+
+Establish clear authorship and recognition for the unified SEFI–DEFI–GWFM program.
+
+7. Post‑Publication Collaboration Targets
+Quantum Photonics / QEC
+Lukin (Harvard)
+
+Englund (MIT)
+
+Guha (Arizona)
+
+PsiQuantum
+
+Xanadu
+
+Warp‑Field Engineering
+MIT Aerospace Computational Design Lab
+
+Caltech GALCIT
+
+NASA JPL
+
+Los Alamos X‑Theoretical Division
+
+DNA Geometry (Hand‑Off)
+Maddocks (EPFL)
+
+Schlick (NYU)
+
+Wyss Institute
+
+8. Program Impact Statement
+The SEFI–DEFI–GWFM unified geometric field program provides a mathematically rigorous, physically grounded, and technologically relevant framework capable of addressing bottlenecks in quantum photonics, advanced propulsion modeling, and distributed dynamical systems.
+
+Its open‑source infrastructure and reproducible engines position it as a collaborative, extensible research program suitable for doctoral evaluation and long‑term development.
 
 ## Interactive Double Slit Explorer
 
