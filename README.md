@@ -1,5 +1,149 @@
 # PhD by Published Work Portfolio
 
+SEFI–DEFI–GWFM Unified Geometric Field Program
+PhD by Published Work — University of Westminster Submission Branch
+Jason Duran Dutton  
+Independent Theoretical Researcher — Castlewood, Virginia, USA
+ORCID: 0009‑0004‑8655‑9901
+GitHub Portfolio: github.com/JasonSEFIDEFI
+
+1. Purpose of This Branch
+This branch contains the complete, curated submission package for the
+University of Westminster — PhD by Published Work pathway.
+
+It presents a unified geometric field program developed independently between 2020–2026, including:
+
+Published and submitted manuscripts
+
+Formal constructions and canonical documents
+
+Applied research extensions
+
+Software engines supporting reproducibility
+
+Commentary, metadata, and contribution statements
+
+This branch is designed to give reviewers a clear, structured view of the unified SEFI–DEFI–GWFM research program.
+
+2. Program Description
+The SEFI–DEFI–GWFM Unified Geometric Field Program develops a single continuous‑entity geometric framework capable of generating field behavior, stability, coherence, excitation structure, and correction dynamics across physical, technological, and engineered systems.
+
+The program integrates three foundational constructions:
+
+SEFI — a geometric identity‑space and warp‑metric describing coherence, identity, and stability
+
+DEFI — a coupled variational law unifying worldline geometry and identity‑space evolution
+
+GWFM — a worldline‑based geometric foundation for electron fields and excitation structure
+
+Together, these form a unified geometric field theory with applications in:
+
+Geometric Photonic Quantum Error Correction
+
+Displacement‑Engineered Warp‑Field Geometry
+
+Distributed Dynamical Systems & Stability Operator Frameworks
+
+The program is supported by open‑source software engines (SEFI‑PY, SEFI_QEC_Stack) that implement worldline geometry, identity‑space dynamics, stabilizer evaluation, syndrome transport, and correction pipelines.
+
+3. Contents of This Branch
+This branch contains all materials required for Westminster review:
+
+3.1 Core Theoretical Manuscripts
+Geometric Worldline Foundations of the Electron Field (GWFM)
+
+SEFI: Single Entity Field Interpretation — Formal Mathematical Construction
+
+Dynamic Entity Field Integration (DEFI)
+
+Unified Geometric Field Theory from Worldline and Identity‑Space Invariants
+
+3.2 Applied Research Manuscripts
+Geometric Photonic Quantum Error Correction via SEFI, GWFM, and DEFI
+
+Displacement‑Engineered Warp Fields: Tic‑Tac Geometry, Stability Surfaces, and Identity‑Space Confinement
+
+DNA as a Golden‑Ratio Helical Worldline (delegated domain)
+
+3.3 Canonical & Supporting Documents
+SEFI Canonical Core Warp‑Metric & Operators
+
+SEFI Space: Identity‑Space Geometry
+
+SEFI: The Big Picture
+
+Unified Theory (Full Manuscript)
+
+Dissertation‑Scale Treatise
+
+3.4 Submission Materials
+Integrative Commentary
+
+Contribution Statement
+
+Academic CV
+
+Submission Metadata
+
+Publication Portfolio
+
+3.5 Software Engines
+SEFI‑PY — geometric field simulation engine
+
+SEFI_QEC_Stack — modular geometric QEC engine
+
+These engines provide reproducibility, validation, and computational support for the manuscripts.
+
+4. Program Objectives
+Unify field behavior through a single continuous‑entity geometric framework.
+
+Apply geometric stability principles to quantum photonics and warp‑field modeling.
+
+Generalize manifold mechanics to distributed systems and engineering domains.
+
+Maintain an open research program with reproducible software engines.
+
+Establish clear authorship and recognition for the unified SEFI–DEFI–GWFM program.
+
+5. Post‑Publication Collaboration Targets
+Quantum Photonics / QEC
+Lukin (Harvard)
+
+Englund (MIT)
+
+Guha (Arizona)
+
+PsiQuantum
+
+Xanadu
+
+Warp‑Field Engineering
+MIT Aerospace Computational Design Lab
+
+Caltech GALCIT
+
+NASA JPL
+
+Los Alamos X‑Theoretical Division
+
+DNA Geometry (Delegated Domain)
+Maddocks (EPFL)
+
+Schlick (NYU)
+
+Wyss Institute
+
+6. Impact Statement
+The SEFI–DEFI–GWFM unified geometric field program provides a mathematically rigorous, physically grounded, and technologically relevant framework capable of addressing bottlenecks in quantum photonics, advanced propulsion modeling, and distributed dynamical systems.
+
+Its open‑source infrastructure and reproducible engines position it as a collaborative, extensible research program suitable for doctoral evaluation and long‑term development.
+
+7. Contact
+Jason Duran Dutton  
+Email: jasondurandutton@gmail.com
+GitHub: github.com/JasonSEFIDEFI
+ORCID: 0009‑0004‑8655‑9901
+
 ## Interactive Double Slit Explorer
 
 [Start here: five-minute educational demo and launch instructions](https://github.com/JasonSEFIDEFI/SEFI-PY/tree/main/SEFI-PY%20Evolution/sim/double_slit_explorer).
