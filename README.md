@@ -7,7 +7,6 @@ Independent Theoretical Researcher — Castlewood, Virginia, USA
 ORCID: 0009‑0004‑8655‑9901
 GitHub Portfolio: github.com/JasonSEFIDEFI
 
-1. Purpose of This Branch
 This branch contains the complete, curated submission package for the
 University of Westminster — PhD by Published Work pathway.
 
