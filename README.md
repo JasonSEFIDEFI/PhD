@@ -1,148 +1,62 @@
-SEFI–DEFI–GWFM Unified Geometric Field Program
-PhD by Published Work — Research Portfolio
-Jason Duran Dutton  
-Independent Theoretical Researcher
-Castlewood, Virginia, USA
-GitHub Portfolio: github.com/JasonSEFIDEFI
+# PhD by Published Work — Research Portfolio
 
-1. Program Overview
-The SEFI–DEFI–GWFM Unified Geometric Field Program develops a single continuous‑entity geometric framework capable of generating field behavior, stability, coherence, excitation structure, and correction dynamics across physical, technological, and engineered systems.
+**SEFI–DEFI–GWFM Unified Geometric Field Programme**  
+Jason Duran Dutton · Independent Theoretical Researcher · Castlewood, Virginia, USA  
+ORCID: [0009-0004-8655-9901](https://orcid.org/0009-0004-8655-9901) · [GitHub portfolio](https://github.com/JasonSEFIDEFI)
 
-This research program integrates three foundational components:
+## Purpose and current research question
 
-SEFI — Single Entity Field Interpretation
+This portfolio supports academic review of an evolving theoretical and computational research programme. The PhD by Published Work route concerns the submission format; the underlying research must meet the standard of a standalone doctoral contribution.
 
-DEFI — Dynamic Entity Field Integration
+The bounded question is whether explicit nonlinear field models support localized persistent excitations and whether perturbations admit compatible effective propagation geometries. Primordial unity motivates this question but is not an established premise.
 
-GWFM — Geometric Worldline Field Model
+- **SEFI — Single Entity Field Interpretation:** proposed identity-space geometry and invariant structure.
+- **DEFI — Dynamic Entity Field Integration:** proposed variational coupling of worldline and identity-space degrees of freedom.
+- **GWFM — Geometric Worldline Foundations:** proposed worldline descriptions of field and excitation structure.
 
-Together, these form a unified geometric theory with applications in quantum photonics, warp‑field geometry, and distributed dynamical systems.
+These are research constructions, not independently established physical laws.
 
-This repository contains the complete publication portfolio submitted for the University of Westminster — PhD by Published Work.
+## Current evidence and limits
 
-2. Core Theoretical Foundations
-2.1 Geometric Worldline Foundations (GWFM)
-GWFM models the electron field and quantum excitations as manifestations of a single continuous worldline embedded in spacetime. Curvature and torsion invariants generate field behavior, statistics, and stability.
+The [23 September 2026 mathematical checkpoint](10_DISSERTATION/research_direction_2026_09_23/research_direction_2026_09_23.md) records finite-domain traveling vortex-ring solutions, continuous global Noether charge, limited evolution and perturbation checks, preliminary non-axisymmetric probes, and a low-energy phase-sector effective metric. It also retains a Derrick-type obstruction under specified rest-state assumptions and unsuccessful alternative rest-loop searches.
 
-2.2 Single Entity Field Interpretation (SEFI)
-SEFI introduces a geometric identity space and warp‑metric that encode coherence, identity, and stability constraints. This provides a unified geometric language for field identity and excitation formation.
+These results do not establish observed matter, spin or quantum statistics, electromagnetic charge, universal coupling, Einstein gravity, continuum existence, or general stability. Software verification is computational evidence, not experimental validation.
 
-2.3 Dynamic Entity Field Integration (DEFI)
-DEFI supplies the coupled Lagrangian law binding worldline geometry and identity‑space dynamics. It unifies SEFI and GWFM into a single evolution equation governing field behavior and stability.
+## Updated displacement-engineered warp study
 
-These three pillars form the theoretical backbone of the unified program.
+The current manuscript is **Displacement-Engineered Warp Fields: Stability Surfaces and Worldline Geometry**, dated **29 September 2026**. The supplied revision proposes
 
-3. Applied Research Streams
-3.1 Geometric Photonic Quantum Error Correction
-A geometric QEC framework using curvature, torsion, and stability surfaces to design photonic error‑correcting codes.
+$$
+D:\mathbb R^4\times\mathbb R^n\to\mathbb R^4,\qquad
+C(D,\nabla D,\nabla^2D,I^a)=0,
+$$
 
-Outputs:
+$$
+\mathcal E(D)=\{x\mid C=0\},\qquad
+\Omega_D=\nabla\times D,\qquad
+\dot\gamma=D(\gamma),\qquad
+\dot I^a=f(D).
+$$
 
-Geometric Photonic QEC Manuscript
+The manuscript reports numerical envelope surfaces, a radial constraint residual, vortex structure, and worldline deformation. These are model-specific constructions, not physical spacetime engineering or a stability proof. The archived [Warp.pdf](Warp.pdf) is retained unchanged and must not be assumed identical to the supplied revision.
 
-SEFI_QEC_Stack — modular QEC engine
+[Warp-Field Geometry](Warp-Field-Geometry.md) records the definitions, numerical figure captions, source inconsistencies, and required validation. [Research Directions](Research-Directions.md) sets out the bounded doctoral and applied work.
 
-SEFI‑PY — geometric field simulation engine
+## Research leadership and collaboration
 
-Impact:  
-Addresses scalability and stability bottlenecks in photonic quantum computing.
+The author leads theoretical formulation, mathematical synthesis, computational modeling, reproducibility, and doctoral integration. Photonic QEC, warp-field modeling, and systems modeling require specialist collaboration and independent assessment. DNA geometry is a specialist handoff domain rather than a primary doctoral contribution.
 
-3.2 Displacement‑Engineered Warp Fields
-A geometric model for warp‑like displacement fields using SEFI warp‑metrics, stability surfaces, and identity‑space confinement.
+[Collaboration and Handoff](Collaboration-and-Handoff.md) lists the prospective targets, rationale, and responsibilities. Targets do not imply existing collaborations or endorsement.
 
-Outputs:
+## Portfolio provenance and preservation
 
-Warp‑Field Geometry Manuscript
+Existing manuscripts, numerical baselines, code archives, negative results, submission identifiers, and institutional materials are retained. Submission identifiers below are provenance records only: they do not establish publication, acceptance, current review status, or validation of a revised manuscript.
 
-Engineering‑ready geometric modeling framework
+The reading sequence retains the historical conceptual organization. Numbered directory labels below describe that organization; several are not present as directories in this branch. Actual files are listed in the repository tree.
 
-Impact:  
-Provides a rigorous geometric language for advanced propulsion modeling and spacetime engineering.
+## Institutional branch
 
-3.3 Geometric Operator Framework for Distributed Systems
-A unified operator set—gradient, curvature, transport, restoring, fatigue—describing stability, accumulated loading, and coherence in distributed dynamical systems.
-
-Outputs:
-
-Big Picture Manuscript
-
-Manifold mechanics sections in the dissertation
-
-Impact:  
-Offers a general stability and correction language for complex systems across physics, engineering, and computation.
-
-4. Supplemental Domain (Delegated)
-4.1 DNA Geometry
-The DNA worldline model demonstrates DEFI stability principles in biological geometry.
-This domain is included as a proof‑of‑concept and is intended for hand‑off to biophysical collaborators.
-
-You remain outside biomedical practice; this maintains appropriate disciplinary boundaries.
-
-5. Software Infrastructure (Open Research Program)
-5.1 SEFI‑PY Engine
-Geometric field simulation engine implementing SEFI–DEFI–GWFM structures.
-
-5.2 SEFI_QEC_Stack
-Modular quantum‑error‑correction engine for stabilizer evaluation, syndrome transport, and geometric correction.
-
-5.3 Public GitHub Research Portfolio
-All manuscripts, engines, and workflows are openly maintained across:
-
-SEFI‑Manuscripts
-
-PhD
-
-CV‑
-
-SEFI‑PY
-
-SEFI_QEC_Stack
-
-This ensures transparency, reproducibility, and long‑term viability.
-
-6. Program Objectives
-Unify field behavior through a single continuous‑entity geometric framework.
-
-Apply geometric stability principles to quantum photonics and warp‑field modeling.
-
-Generalize manifold mechanics to distributed systems and engineering domains.
-
-Maintain an open research program with reproducible software engines.
-
-Establish clear authorship and recognition for the unified SEFI–DEFI–GWFM program.
-
-7. Post‑Publication Collaboration Targets
-Quantum Photonics / QEC
-Lukin (Harvard)
-
-Englund (MIT)
-
-Guha (Arizona)
-
-PsiQuantum
-
-Xanadu
-
-Warp‑Field Engineering
-MIT Aerospace Computational Design Lab
-
-Caltech GALCIT
-
-NASA JPL
-
-Los Alamos X‑Theoretical Division
-
-DNA Geometry (Hand‑Off)
-Maddocks (EPFL)
-
-Schlick (NYU)
-
-Wyss Institute
-
-8. Program Impact Statement
-The SEFI–DEFI–GWFM unified geometric field program provides a mathematically rigorous, physically grounded, and technologically relevant framework capable of addressing bottlenecks in quantum photonics, advanced propulsion modeling, and distributed dynamical systems.
-
-Its open‑source infrastructure and reproducible engines position it as a collaborative, extensible research program suitable for doctoral evaluation and long‑term development.
+The separate [University of Westminster branch](https://github.com/JasonSEFIDEFI/PhD/tree/University-of-Westminster) retains its institutional submission materials and branch-specific README. This general portfolio does not imply submission acceptance or institutional endorsement.
 
 ## Interactive Double Slit Explorer
 
@@ -174,7 +88,7 @@ New materials dated 23 September 2026:
 - [Mathematical research direction — PDF](10_DISSERTATION/research_direction_2026_09_23/research_direction_2026_09_23.pdf) | [equations and editable text](10_DISSERTATION/research_direction_2026_09_23/research_direction_2026_09_23.md)
 - [Isolated computational research and evidence](https://github.com/JasonSEFIDEFI/SEFI-PY/tree/main/SEFI-PY%20Evolution/research/physical_matter_2026_09_23)
 
-The explicit goal is to derive physical matter and test whether field excitations can generate a universally experienced geometry. That goal remains open. Current results comprise moving classical charged-loop candidates, limited perturbation checks, a time-harmonic rest-state obstruction for the baseline parameters, and unsuccessful initial searches after a proposed parameter change. These documents are for research discussion and independent review; they are not a completed physical theory or a journal submission.
+The explicit goal is to derive physical matter and test whether field excitations can generate a universally experienced geometry. That goal remains open. Current results comprise moving classical loops carrying model Noether charge, limited perturbation checks, a time-harmonic rest-state obstruction for the baseline parameters, and unsuccessful initial searches after a proposed parameter change. These documents are for research discussion and independent review; they are not a completed physical theory or a journal submission.
 
 ## Jason Duran Dutton
 
@@ -191,9 +105,9 @@ The portfolio documents the development of an interdisciplinary research program
 - Biological Systems Modeling
 - Volumetric Visualization Technologies
 
-The repository contains peer-review manuscripts, software implementations, validation frameworks, engineering concepts, dissertation development materials, and supporting research artifacts developed as part of a unified research program.
+The repository contains research manuscripts prepared for scholarly review, software implementations, validation frameworks, engineering concepts, dissertation development materials, and supporting research artifacts developed as part of a unified research program.
 
-The publications, software frameworks, engineering applications, and dissertation materials are intended to be evaluated collectively as components of a single evolving body of work.
+The manuscripts, software frameworks, engineering applications, and dissertation materials are intended to be evaluated collectively as components of a single evolving body of work.
 
 ---
 
@@ -248,14 +162,14 @@ Directory:
 01_GWFM/
 ```
 
-Status:
+Recorded submission identifier (provenance only):
 
 ```text
 Journal of Mathematical Physics
 JMP26-AR-02470
 ```
 
-This manuscript establishes the foundational geometric framework of the research program.
+This manuscript proposes an early geometric framework in the research programme; its physical interpretation remains subject to independent assessment.
 
 Topics include:
 
@@ -277,7 +191,7 @@ Directory:
 02_SEFI/
 ```
 
-Status:
+Recorded submission identifier (provenance only):
 
 ```text
 Journal of Mathematical Physics
@@ -306,7 +220,7 @@ Directory:
 03_DEFI/
 ```
 
-Status:
+Recorded submission identifier (provenance only):
 
 ```text
 AIP Advances
@@ -335,7 +249,7 @@ Directory:
 04_UNIFIED/
 ```
 
-Status:
+Recorded submission identifier (provenance only):
 
 ```text
 Journal of Mathematical Physics
@@ -437,7 +351,7 @@ Directory:
 06_PHOTONIC_QEC/
 ```
 
-Status:
+Recorded submission identifier (provenance only):
 
 ```text
 AIP Advances
@@ -466,14 +380,14 @@ Directory:
 07_DNA/
 ```
 
-Status:
+Recorded submission identifier (provenance only):
 
 ```text
 AIP Advances
 ADV26-AR-04675
 ```
 
-Application of the framework to biological geometry and topological stabilization.
+A proposed biological geometry extension for specialist handoff. Helical and golden-ratio descriptions require biophysical validation and do not establish biological stabilization.
 
 Topics include:
 
@@ -486,7 +400,7 @@ Topics include:
 
 ## 9. Warp Geometry and Stability Surfaces
 
-### Displacement-Engineered Warp Fields: Tic-Tac Geometry, Stability Surfaces, and Identity-Space Confinement
+### Displacement-Engineered Warp Fields: Stability Surfaces and Worldline Geometry (29 September 2026 revision)
 
 Directory:
 
@@ -494,14 +408,14 @@ Directory:
 08_WARP/
 ```
 
-Status:
+Recorded submission identifier (provenance only):
 
 ```text
 AIP Advances
 ADV26-AR-04652
 ```
 
-Engineering-oriented application exploring displacement fields, stability surfaces, and geometric motion constraints.
+The revised manuscript proposes displacement fields, candidate constraint surfaces, vortex structure, and worldline flow. See [Warp-Field Geometry](Warp-Field-Geometry.md) for the current definitions and limits; the archived PDF remains unchanged.
 
 Topics include:
 
@@ -583,11 +497,11 @@ Work In Progress
 Dissertation Development Document
 ```
 
-This material serves as a precursor to a formal doctoral synthesis tying together the broader publication portfolio.
+This material serves as a precursor to a formal doctoral synthesis of the research portfolio.
 
 ---
 
-# Repository Structure
+# Historical Conceptual Organization
 
 ```text
 01_GWFM
@@ -627,7 +541,7 @@ The combination of practical engineering experience and independent theoretical 
 
 # Current Publication Pipeline
 
-Active manuscripts are currently progressing through journal review pipelines, while additional work continues through software development, validation studies, and dissertation synthesis activities.
+Recorded journal submission identifiers are retained above. Current review or publication status is not established by those identifiers. Additional work concerns software development, validation studies, and dissertation synthesis.
 
 ---
 
