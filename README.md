@@ -557,3 +557,11 @@ https://github.com/JasonSEFIDEFI
 ```
 
 This repository serves as the master archive for the research portfolio and associated PhD by Published Work materials.
+
+## Research synchronization - October 18, 2026
+
+- [Manuscript archive and author-review drafts](https://github.com/JasonSEFIDEFI/SEFI-Manuscripts/blob/main/RESEARCH-UPDATE-2026-10-18.md).
+- [New simulations, assumptions, and reproducible calculations](https://github.com/JasonSEFIDEFI/SEFI-PY/tree/main/research/2026-10-18).
+- [Book manuscripts and early source material](https://github.com/JasonSEFIDEFI/Publishing-V-Drive-Content).
+
+These are research drafts and computational studies, not confirmations of new physics, a working propulsion engine, journal acceptance, or a doctoral award. Prior versions and submission history remain distinct. Existing draft pull requests are retained for review.
