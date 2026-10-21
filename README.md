@@ -1,5 +1,9 @@
 # PhD by Published Work — Research Portfolio
 
+## Finite-N quantum-gas research checkpoint — 21 October 2026
+
+[Lieb–Liniger Bethe/Gaudin response and two-body contact](10_DISSERTATION/lieb_liniger_2026_10_21/README.md) provides explicit finite-N derivations, reproducible calculations, tests, and a validation record. Exact repulsive-model results are separated from conditional fractional-filling interpretations and open SEFI/GWFM/DEFI hypotheses. This is a research checkpoint for review, with no novelty or wider-theory validation claim.
+
 **SEFI–DEFI–GWFM Unified Geometric Field Programme**  
 Jason Duran Dutton · Independent Theoretical Researcher · Castlewood, Virginia, USA  
 ORCID: [0009-0004-8655-9901](https://orcid.org/0009-0004-8655-9901) · [GitHub portfolio](https://github.com/JasonSEFIDEFI)
