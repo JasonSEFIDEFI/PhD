@@ -1,5 +1,13 @@
 # Executed validation — 21 October 2026
 
+## Recovered-context continuation
+
+After the full conversation was supplied, `python -m unittest -v test_response test_cycle` passed all nine test groups in 7.810 seconds. The four new groups cover nine repulsive endpoint comparisons against the Gaudin solver; twelve attractive real-root checks against wavefunction normalization and finite-difference root derivatives; matching limits at both spectral seams; free-limit contact; and invalid inputs. `python two_body_cycle.py` generated four endpoint comparisons in cycle_results.json.
+
+For N=L=2 and c=1, the prescribed one-loop spectral endpoints have g²(0)=0.362658543 and 0.935285163, giving Delta g²=0.572626620. This is a conditional spectral endpoint comparison, not a simulated physical cycle or experimental prediction. Full derivation and limitations are in TWO_BODY_CYCLE.md.
+
+## Original finite-N baseline
+
 Environment: Python 3.14.7, NumPy 2.5.2, SciPy 1.18.1 on Windows.
 
 `python -m unittest -v test_response` passed all five test groups (2.972 seconds in the final recorded run). These include 18 fixed-I finite-difference cases for rapidity, energy and energy curvature; five independent two-particle scalar solves and wavefunction normalizations; weak- and strong-coupling limits; momentum, boost and scale identities; one-particle contact; and rejection of invalid inputs. Assertions and tolerances are visible in test_response.py.

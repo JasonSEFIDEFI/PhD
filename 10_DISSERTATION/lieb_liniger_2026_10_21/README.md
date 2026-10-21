@@ -4,7 +4,7 @@ Research checkpoint, 21 October 2026. Status: standard-model derivations and rep
 
 ## Provenance and scope
 
-This checkpoint follows the request to continue “Relate Quantum Order to SEFI” (conversation identifier `6ad83ea9-1bd4-83e9-a79a-5fb5242a9c0e`). Only a short preview was available: it requests following the mathematics before making assumptions and maintaining the research repository. The earlier assistant derivations were unavailable. This document reconstructs a baseline rather than certifying or reproducing those missing derivations. The author selected the PhD repository. Its main-branch baseline was `ea632a09693f5fba23ebe4cf189ca39bbe2282de`; the existing research directions concern classical localized excitations, and no matching Bethe/Gaudin notes were found by text search.
+This checkpoint follows “Relate Quantum Order to SEFI” (conversation identifier `6ad83ea9-1bd4-83e9-a79a-5fb5242a9c0e`). Initially only a short preview was available. The author subsequently supplied the full pasted conversation; its derivations and intended next step have now been audited in [RECOVERED_CONTEXT.md](RECOVERED_CONTEXT.md). The finite-N baseline below agrees with the recovered response formulas. The next intended calculation is the two-body interaction-cycle branch map, developed in [TWO_BODY_CYCLE.md](TWO_BODY_CYCLE.md). The author selected the PhD repository. Its initial main-branch baseline was `ea632a09693f5fba23ebe4cf189ca39bbe2282de`.
 
 The model here is the homogeneous periodic, repulsive, one-component Bose gas. Fix particle number N, circumference L>0, c>0, and distinct ordered Bethe quantum numbers I. Integers apply for odd N and half-integers for even N. Work in hbar=2m=1 units:
 
@@ -84,13 +84,13 @@ The 2026 Bastianello et al. paper studies fractional Fermi seas produced by inte
 
 ## Open questions and the next defensible contribution
 
-1. Recover the missing prior derivations and compare every convention and claimed invariant with this baseline.
+1. Recovered: the prior derivations agree with this baseline, with qualifications documented in RECOVERED_CONTEXT.md. The new two-body continuation calculation starts from the intended stopping point.
 2. Derive the precise finite-N state map for the specified cycle; decide which attractive real-root branch and bound-state sectors are included. The present solver deliberately rejects c≤0.
 3. Compare multiple microstate sequences with the same proposed coarse filling at fixed density and gamma=c/n, with systematic N scaling and uncertainty. Regularly spaced quantum numbers alone do not settle the correlation structure.
 4. Compute the thermodynamic dressed response and compare its pair contact with these finite-N calculations, then analyze nonlocal correlations if criticality is the question.
 5. To test SEFI/GWFM/DEFI, specify an explicit map from those variables or an action to these Bethe observables, derive an independent quantitative prediction, and compare it with this established baseline. No such map or additional conserved invariant is assumed here.
 
-The immediate useful research direction is a controlled comparison of finite-size response and contact for explicitly selected states. It is not yet evidence of a novel law or a scientifically significant new contribution. Literature review and an actual discrepancy, theorem, or new controlled prediction would be needed for that assessment.
+The restored research direction is cyclic correlation transport. TWO_BODY_CYCLE.md now supplies the conditional two-body spectral map and its contact change. The next step is comparison with a fully specified finite-time protocol, followed by justified larger-N extensions. This is not yet evidence of a novel law. Literature review and an actual discrepancy, theorem, or new controlled prediction would be needed for that assessment.
 
 ## Reproduce
 
