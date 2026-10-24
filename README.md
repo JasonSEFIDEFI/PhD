@@ -1,5 +1,9 @@
 # PhD by Published Work — Research Portfolio
 
+## Guiding research question
+
+> Can a minimally constrained mathematical structure produce geometry, distinguishable physical entities, and their interactions as emergent properties, rather than requiring those structures to be specified beforehand?
+
 **SEFI–DEFI–GWFM Unified Geometric Field Programme**  
 Jason Duran Dutton · Independent Theoretical Researcher · Castlewood, Virginia, USA  
 ORCID: [0009-0004-8655-9901](https://orcid.org/0009-0004-8655-9901) · [GitHub portfolio](https://github.com/JasonSEFIDEFI)
