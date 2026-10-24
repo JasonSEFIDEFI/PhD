@@ -1,0 +1,211 @@
+{
+  "date": "2026-10-24",
+  "purpose": "Evidence-based prioritization, not an exhaustive revalidation of every archived artifact",
+  "records": [
+    {
+      "repository": "JasonSEFIDEFI/SEFI-PY",
+      "commit": "847a071351ed2b1c54e240fd9a520a1cce238178",
+      "path": "research/2026-10-19/vortex-survival/README.md",
+      "blob": "8bf9a53a4d88a7a5b7a4a4ab61313091d0bc66b0",
+      "url": "https://github.com/JasonSEFIDEFI/SEFI-PY/blob/847a071351ed2b1c54e240fd9a520a1cce238178/research/2026-10-19/vortex-survival/README.md",
+      "scope": "Read research text; historical simulations not rerun during prioritization"
+    },
+    {
+      "repository": "JasonSEFIDEFI/SEFI-PY",
+      "commit": "847a071351ed2b1c54e240fd9a520a1cce238178",
+      "path": "research/2026-10-19/vortex-survival/AUTHORSHIP_SCOPE.md",
+      "blob": "67fba5530c4cf48cc183f3cf968b31fa951a670f",
+      "url": "https://github.com/JasonSEFIDEFI/SEFI-PY/blob/847a071351ed2b1c54e240fd9a520a1cce238178/research/2026-10-19/vortex-survival/AUTHORSHIP_SCOPE.md",
+      "scope": "Read research text; historical simulations not rerun during prioritization"
+    },
+    {
+      "repository": "JasonSEFIDEFI/SEFI-PY",
+      "commit": "847a071351ed2b1c54e240fd9a520a1cce238178",
+      "path": "research/2026-10-19/vortex-comparison/COMPARISON.md",
+      "blob": "18e643cbf55ef196044f40a119359f48b99159e9",
+      "url": "https://github.com/JasonSEFIDEFI/SEFI-PY/blob/847a071351ed2b1c54e240fd9a520a1cce238178/research/2026-10-19/vortex-comparison/COMPARISON.md",
+      "scope": "Read research text; historical simulations not rerun during prioritization"
+    },
+    {
+      "repository": "JasonSEFIDEFI/SEFI-PY",
+      "commit": "847a071351ed2b1c54e240fd9a520a1cce238178",
+      "path": "research/2026-10-19/vortex-extended/RESUMED_CHECKPOINT.md",
+      "blob": "298abbdb20684b287d3762b9a334ebeb72667798",
+      "url": "https://github.com/JasonSEFIDEFI/SEFI-PY/blob/847a071351ed2b1c54e240fd9a520a1cce238178/research/2026-10-19/vortex-extended/RESUMED_CHECKPOINT.md",
+      "scope": "Read research text; historical simulations not rerun during prioritization"
+    },
+    {
+      "repository": "JasonSEFIDEFI/SEFI-PY",
+      "commit": "847a071351ed2b1c54e240fd9a520a1cce238178",
+      "path": "research/2026-10-19/vortex-extended/PHYSICAL_BACKGROUND.md",
+      "blob": "c1628c42242eb44344cc4f1a2a9ad0c695a08ba1",
+      "url": "https://github.com/JasonSEFIDEFI/SEFI-PY/blob/847a071351ed2b1c54e240fd9a520a1cce238178/research/2026-10-19/vortex-extended/PHYSICAL_BACKGROUND.md",
+      "scope": "Read research text; historical simulations not rerun during prioritization"
+    },
+    {
+      "repository": "JasonSEFIDEFI/SEFI-PY",
+      "commit": "847a071351ed2b1c54e240fd9a520a1cce238178",
+      "path": "research/2026-10-19/vortex-extended/SPHERICAL_DERIVATION.md",
+      "blob": "51ae95aac86537dffa2a19debbfcaf42d1978f7d",
+      "url": "https://github.com/JasonSEFIDEFI/SEFI-PY/blob/847a071351ed2b1c54e240fd9a520a1cce238178/research/2026-10-19/vortex-extended/SPHERICAL_DERIVATION.md",
+      "scope": "Read research text; historical simulations not rerun during prioritization"
+    },
+    {
+      "repository": "JasonSEFIDEFI/SEFI-PY",
+      "commit": "847a071351ed2b1c54e240fd9a520a1cce238178",
+      "path": "SEFI-PY Evolution/research/physical_matter_2026_09_30/broad_scan_report.md",
+      "blob": "f23ebdb4262b692289e785641551979926fa4b44",
+      "url": "https://github.com/JasonSEFIDEFI/SEFI-PY/blob/847a071351ed2b1c54e240fd9a520a1cce238178/SEFI-PY%20Evolution/research/physical_matter_2026_09_30/broad_scan_report.md",
+      "scope": "Read research text; historical simulations not rerun during prioritization"
+    },
+    {
+      "repository": "JasonSEFIDEFI/SEFI-PY",
+      "commit": "847a071351ed2b1c54e240fd9a520a1cce238178",
+      "path": "SEFI-PY Evolution/research/physical_matter_2026_09_30/three_track_report.md",
+      "blob": "c0c9eaf56a304259b0411d8eef5ee255471729b5",
+      "url": "https://github.com/JasonSEFIDEFI/SEFI-PY/blob/847a071351ed2b1c54e240fd9a520a1cce238178/SEFI-PY%20Evolution/research/physical_matter_2026_09_30/three_track_report.md",
+      "scope": "Read research text; historical simulations not rerun during prioritization"
+    },
+    {
+      "repository": "JasonSEFIDEFI/SEFI-PY",
+      "commit": "847a071351ed2b1c54e240fd9a520a1cce238178",
+      "path": "SEFI-PY Evolution/research/physical_matter_2026_09_30/action_traveling_audit.md",
+      "blob": "ae8f460d646c078d6a334e3c4a12b4d46fcbbb1f",
+      "url": "https://github.com/JasonSEFIDEFI/SEFI-PY/blob/847a071351ed2b1c54e240fd9a520a1cce238178/SEFI-PY%20Evolution/research/physical_matter_2026_09_30/action_traveling_audit.md",
+      "scope": "Read research text; historical simulations not rerun during prioritization"
+    },
+    {
+      "repository": "JasonSEFIDEFI/SEFI-PY",
+      "commit": "847a071351ed2b1c54e240fd9a520a1cce238178",
+      "path": "SEFI-PY Evolution/research/physical_matter_2026_09_30/three_track_derivation.md",
+      "blob": "2505e7643df86e62e1dc0bbf3cc28a8387f17c91",
+      "url": "https://github.com/JasonSEFIDEFI/SEFI-PY/blob/847a071351ed2b1c54e240fd9a520a1cce238178/SEFI-PY%20Evolution/research/physical_matter_2026_09_30/three_track_derivation.md",
+      "scope": "Read research text; historical simulations not rerun during prioritization"
+    },
+    {
+      "repository": "JasonSEFIDEFI/SEFI-PY",
+      "commit": "847a071351ed2b1c54e240fd9a520a1cce238178",
+      "path": "research/2026-10-18/sefi-dynamics/RESEARCH-NOTE.md",
+      "blob": "a7f6f670bc3bb818538ccb0e7302a7fc61df9787",
+      "url": "https://github.com/JasonSEFIDEFI/SEFI-PY/blob/847a071351ed2b1c54e240fd9a520a1cce238178/research/2026-10-18/sefi-dynamics/RESEARCH-NOTE.md",
+      "scope": "Read research text; historical simulations not rerun during prioritization"
+    },
+    {
+      "repository": "JasonSEFIDEFI/SEFI-PY",
+      "commit": "847a071351ed2b1c54e240fd9a520a1cce238178",
+      "path": "research/2026-10-18/sefi-ai-exploration/FINDINGS.md",
+      "blob": "680d7774edd2da57ab0a940d802d628a54b08f5b",
+      "url": "https://github.com/JasonSEFIDEFI/SEFI-PY/blob/847a071351ed2b1c54e240fd9a520a1cce238178/research/2026-10-18/sefi-ai-exploration/FINDINGS.md",
+      "scope": "Read research text; historical simulations not rerun during prioritization"
+    },
+    {
+      "repository": "JasonSEFIDEFI/SEFI-PY",
+      "commit": "847a071351ed2b1c54e240fd9a520a1cce238178",
+      "path": "SEFI-PY Evolution/research/calibration_workbench/VALIDATION.md",
+      "blob": "d8db018cbc7a4948b8fd286b4095878596addd47",
+      "url": "https://github.com/JasonSEFIDEFI/SEFI-PY/blob/847a071351ed2b1c54e240fd9a520a1cce238178/SEFI-PY%20Evolution/research/calibration_workbench/VALIDATION.md",
+      "scope": "Read research text; historical simulations not rerun during prioritization"
+    },
+    {
+      "repository": "JasonSEFIDEFI/SEFI-PY",
+      "commit": "847a071351ed2b1c54e240fd9a520a1cce238178",
+      "path": "SEFI-PY/benchmarks/displacement_recovery/TECHNICAL_AUDIT.md",
+      "blob": "7fd87640341ee27ba76088c14f6c66b6a44fcfd9",
+      "url": "https://github.com/JasonSEFIDEFI/SEFI-PY/blob/847a071351ed2b1c54e240fd9a520a1cce238178/SEFI-PY/benchmarks/displacement_recovery/TECHNICAL_AUDIT.md",
+      "scope": "Read research text; historical simulations not rerun during prioritization"
+    },
+    {
+      "repository": "JasonSEFIDEFI/SEFI-PY",
+      "commit": "847a071351ed2b1c54e240fd9a520a1cce238178",
+      "path": "SEFI-PY/benchmarks/displacement_recovery/BENCHMARK_REPORT.md",
+      "blob": "b045d175ad7ce2c6879318d0dd60122cae201889",
+      "url": "https://github.com/JasonSEFIDEFI/SEFI-PY/blob/847a071351ed2b1c54e240fd9a520a1cce238178/SEFI-PY/benchmarks/displacement_recovery/BENCHMARK_REPORT.md",
+      "scope": "Read research text; historical simulations not rerun during prioritization"
+    },
+    {
+      "repository": "JasonSEFIDEFI/SEFI-Manuscripts",
+      "commit": "4643ee8cd2cf06d29fc606af80be8763fb6bc3fb",
+      "path": "sefi/sefi.tex",
+      "blob": "4aa3bf0505dc19bec7c8f6dcffa4a0faa333e4c4",
+      "url": "https://github.com/JasonSEFIDEFI/SEFI-Manuscripts/blob/4643ee8cd2cf06d29fc606af80be8763fb6bc3fb/sefi/sefi.tex"
+    },
+    {
+      "repository": "JasonSEFIDEFI/SEFI-Manuscripts",
+      "commit": "4643ee8cd2cf06d29fc606af80be8763fb6bc3fb",
+      "path": "DEFI/DEFI_Formal_Construction.tex",
+      "blob": "f82dbfcac846a7aa6ae816909e4d0bb8fcbb3141",
+      "url": "https://github.com/JasonSEFIDEFI/SEFI-Manuscripts/blob/4643ee8cd2cf06d29fc606af80be8763fb6bc3fb/DEFI/DEFI_Formal_Construction.tex"
+    },
+    {
+      "repository": "JasonSEFIDEFI/SEFI-Manuscripts",
+      "commit": "4643ee8cd2cf06d29fc606af80be8763fb6bc3fb",
+      "path": "research-updates/2026-10-18/theory-foundations/foundations.tex",
+      "blob": "d56be35e33eb0baa8cb66e2b0dcb2e8fc188cd6c",
+      "url": "https://github.com/JasonSEFIDEFI/SEFI-Manuscripts/blob/4643ee8cd2cf06d29fc606af80be8763fb6bc3fb/research-updates/2026-10-18/theory-foundations/foundations.tex"
+    },
+    {
+      "repository": "JasonSEFIDEFI/SEFI-Manuscripts",
+      "commit": "4643ee8cd2cf06d29fc606af80be8763fb6bc3fb",
+      "path": "research-updates/2026-10-18/sefi-source-coupling/sefi-source-coupling.tex",
+      "blob": "8d9692dc19146f4f0c2e991a1ab0fd81c6d83e4f",
+      "url": "https://github.com/JasonSEFIDEFI/SEFI-Manuscripts/blob/4643ee8cd2cf06d29fc606af80be8763fb6bc3fb/research-updates/2026-10-18/sefi-source-coupling/sefi-source-coupling.tex"
+    },
+    {
+      "repository": "JasonSEFIDEFI/SEFI-Manuscripts",
+      "commit": "4643ee8cd2cf06d29fc606af80be8763fb6bc3fb",
+      "path": "research-updates/2026-10-20/defining-sefi/unifiying.tex",
+      "blob": "745d9b2f5ff7461dd0a710279ea08f6ae96b1e23",
+      "url": "https://github.com/JasonSEFIDEFI/SEFI-Manuscripts/blob/4643ee8cd2cf06d29fc606af80be8763fb6bc3fb/research-updates/2026-10-20/defining-sefi/unifiying.tex"
+    },
+    {
+      "repository": "JasonSEFIDEFI/SEFI-Manuscripts",
+      "commit": "4643ee8cd2cf06d29fc606af80be8763fb6bc3fb",
+      "path": "sefi-space/sefi-space.tex",
+      "blob": "4bd5981697e88be464fa83b08c01d91a1ac455be",
+      "url": "https://github.com/JasonSEFIDEFI/SEFI-Manuscripts/blob/4643ee8cd2cf06d29fc606af80be8763fb6bc3fb/sefi-space/sefi-space.tex"
+    },
+    {
+      "repository": "JasonSEFIDEFI/waveform-observed-entity",
+      "commit": "ef6fb04610026d33d4925cee89a04da8720eabf1",
+      "path": "README.md",
+      "blob": "1c8bb61fd9c56654eaa5f8808136601b9222511b",
+      "url": "https://github.com/JasonSEFIDEFI/waveform-observed-entity/blob/ef6fb04610026d33d4925cee89a04da8720eabf1/README.md",
+      "scope": "README-level project assessment, not new code/hardware certification"
+    },
+    {
+      "repository": "JasonSEFIDEFI/sefi-double-slit-simulator",
+      "commit": "d762a5b4672ab74c3c8880eb42ab4e5d496a955a",
+      "path": "README.md",
+      "blob": "2c3952e550602cf47afad1fe91b9c7e1c3f2afdb",
+      "url": "https://github.com/JasonSEFIDEFI/sefi-double-slit-simulator/blob/d762a5b4672ab74c3c8880eb42ab4e5d496a955a/README.md",
+      "scope": "README-level project assessment, not new code/hardware certification"
+    },
+    {
+      "repository": "JasonSEFIDEFI/SEFI-Voxel",
+      "commit": "f8737ca47620e4c9c5143e6baa8ca301bbaa8b7d",
+      "path": "README.md",
+      "blob": "017b4694ada85bc393158ca3fef9d613484e67c9",
+      "url": "https://github.com/JasonSEFIDEFI/SEFI-Voxel/blob/f8737ca47620e4c9c5143e6baa8ca301bbaa8b7d/README.md",
+      "scope": "README-level project assessment, not new code/hardware certification"
+    },
+    {
+      "repository": "JasonSEFIDEFI/SEFI-PY",
+      "commit": "847a071351ed2b1c54e240fd9a520a1cce238178",
+      "path": "research/2026-10-19/vortex-extended/vacuum_spherical.py",
+      "blob": "219fa2cd377e8608d71fb587b1e553cf8c9396f9",
+      "scope": "Read solver source to identify parameter/seed limits"
+    }
+  ],
+  "additional_sources": [
+    "October 11 mathematical correction audit (local)",
+    "October 22 manuscript review and source manifest (local)",
+    "October 24 executed Lieb-Liniger and Hamiltonian calculations in this chat",
+    "SEFI_QEC_Stack README at 7be66ac5d3e487196121dec136c3136ee5246963"
+  ],
+  "literature": [
+    "https://arxiv.org/abs/2112.14263",
+    "https://arxiv.org/abs/1206.2632",
+    "https://arxiv.org/abs/1909.01950"
+  ],
+  "recommendations": "Research judgments; no numerical probability of success inferred"
+}

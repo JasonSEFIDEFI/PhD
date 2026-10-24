@@ -1,0 +1,68 @@
+[
+  {
+    "name": "sefi",
+    "path": "sefi/sefi.tex",
+    "git_blob_sha": "4aa3bf0505dc19bec7c8f6dcffa4a0faa333e4c4",
+    "repository": "JasonSEFIDEFI/SEFI-Manuscripts",
+    "commit": "4643ee8cd2cf06d29fc606af80be8763fb6bc3fb",
+    "url": "https://github.com/JasonSEFIDEFI/SEFI-Manuscripts/blob/4643ee8cd2cf06d29fc606af80be8763fb6bc3fb/sefi/sefi.tex",
+    "local_analysis_copy": "sources/sefi.tex",
+    "copy_note": "Analysis copies may normalize line endings; immutable public Git blobs identify source versions",
+    "local_copy_sha256": "95f0a3d95a6cc538b193974e477eb69bbd2b27cd5ce36abf409d850e116856ec"
+  },
+  {
+    "name": "defi",
+    "path": "DEFI/DEFI_Formal_Construction.tex",
+    "git_blob_sha": "f82dbfcac846a7aa6ae816909e4d0bb8fcbb3141",
+    "repository": "JasonSEFIDEFI/SEFI-Manuscripts",
+    "commit": "4643ee8cd2cf06d29fc606af80be8763fb6bc3fb",
+    "url": "https://github.com/JasonSEFIDEFI/SEFI-Manuscripts/blob/4643ee8cd2cf06d29fc606af80be8763fb6bc3fb/DEFI/DEFI_Formal_Construction.tex",
+    "local_analysis_copy": "sources/defi.tex",
+    "copy_note": "Analysis copies may normalize line endings; immutable public Git blobs identify source versions",
+    "local_copy_sha256": "a0d45503a1e7de56f8a845e4284a71553b547ed09ae333cfed2c8ff0a28c97ee"
+  },
+  {
+    "name": "foundations",
+    "path": "research-updates/2026-10-18/theory-foundations/foundations.tex",
+    "git_blob_sha": "d56be35e33eb0baa8cb66e2b0dcb2e8fc188cd6c",
+    "repository": "JasonSEFIDEFI/SEFI-Manuscripts",
+    "commit": "4643ee8cd2cf06d29fc606af80be8763fb6bc3fb",
+    "url": "https://github.com/JasonSEFIDEFI/SEFI-Manuscripts/blob/4643ee8cd2cf06d29fc606af80be8763fb6bc3fb/research-updates/2026-10-18/theory-foundations/foundations.tex",
+    "local_analysis_copy": "sources/foundations.tex",
+    "copy_note": "Analysis copies may normalize line endings; immutable public Git blobs identify source versions",
+    "local_copy_sha256": "ff39f20286cf7f4629d1fe180514d53c7aa228b0c24436c65d3789571dab14e4"
+  },
+  {
+    "name": "source_coupling",
+    "path": "research-updates/2026-10-18/sefi-source-coupling/sefi-source-coupling.tex",
+    "git_blob_sha": "8d9692dc19146f4f0c2e991a1ab0fd81c6d83e4f",
+    "repository": "JasonSEFIDEFI/SEFI-Manuscripts",
+    "commit": "4643ee8cd2cf06d29fc606af80be8763fb6bc3fb",
+    "url": "https://github.com/JasonSEFIDEFI/SEFI-Manuscripts/blob/4643ee8cd2cf06d29fc606af80be8763fb6bc3fb/research-updates/2026-10-18/sefi-source-coupling/sefi-source-coupling.tex",
+    "local_analysis_copy": "sources/source_coupling.tex",
+    "copy_note": "Analysis copies may normalize line endings; immutable public Git blobs identify source versions",
+    "local_copy_sha256": "62233aeda0c7eddb0de0b1d6b941b9dd47466b4e2d618eb54c0dfe37e964f84b"
+  },
+  {
+    "name": "unifying",
+    "path": "research-updates/2026-10-20/defining-sefi/unifiying.tex",
+    "git_blob_sha": "745d9b2f5ff7461dd0a710279ea08f6ae96b1e23",
+    "repository": "JasonSEFIDEFI/SEFI-Manuscripts",
+    "commit": "4643ee8cd2cf06d29fc606af80be8763fb6bc3fb",
+    "url": "https://github.com/JasonSEFIDEFI/SEFI-Manuscripts/blob/4643ee8cd2cf06d29fc606af80be8763fb6bc3fb/research-updates/2026-10-20/defining-sefi/unifiying.tex",
+    "local_analysis_copy": "sources/unifying.tex",
+    "copy_note": "Analysis copies may normalize line endings; immutable public Git blobs identify source versions",
+    "local_copy_sha256": "5dcd546fc9db43f26a3b306c69db58de273fdc31fe929f8f4169e49e29434a70"
+  },
+  {
+    "name": "space",
+    "path": "sefi-space/sefi-space.tex",
+    "git_blob_sha": "4bd5981697e88be464fa83b08c01d91a1ac455be",
+    "repository": "JasonSEFIDEFI/SEFI-Manuscripts",
+    "commit": "4643ee8cd2cf06d29fc606af80be8763fb6bc3fb",
+    "url": "https://github.com/JasonSEFIDEFI/SEFI-Manuscripts/blob/4643ee8cd2cf06d29fc606af80be8763fb6bc3fb/sefi-space/sefi-space.tex",
+    "local_analysis_copy": "sources/space.tex",
+    "copy_note": "Analysis copies may normalize line endings; immutable public Git blobs identify source versions",
+    "local_copy_sha256": "8eabb6da221fa6c17b2805886f6124b1536474ee4e887eb51a89f8ff73633d88"
+  }
+]

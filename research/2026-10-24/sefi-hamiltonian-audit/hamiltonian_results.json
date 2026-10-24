@@ -1,0 +1,190 @@
+{
+  "scope": "Curvature-only allowed parameter subfamily, local timelike regular domain",
+  "units": "c=1; numerical m=h=k=mu=1",
+  "python": "3.14.7",
+  "numpy": "2.5.2",
+  "scipy": "1.18.1",
+  "sympy": "1.14.0",
+  "symbolic_identities": {
+    "highest_derivative_hessian": "0",
+    "momentum_P": "0",
+    "momentum_pS": "0",
+    "Legendre_transform": "0",
+    "velocity_inverse": "0",
+    "identity_velocity_inverse": "0",
+    "P_evolution": "0",
+    "pS_evolution": "0",
+    "parametrized_acceleration_Hessian_determinant": "0",
+    "primary_reparametrization_constraint": "0",
+    "secondary_constraint_fixes_pt": "0",
+    "px_jerk_coefficient": "0"
+  },
+  "finite_difference_checks": {
+    "seed": 24102026,
+    "cases": 100,
+    "max_Hamilton_gradient_error": 7.066449647652462e-10
+  },
+  "local_integrations": [
+    {
+      "S0": 1.0,
+      "rtol": 1e-08,
+      "energy_initial": 1.5255630261676774,
+      "energy_drift": 4.440892098500626e-16,
+      "max_speed": 0.2,
+      "min_abs_S": 0.9855356039709958,
+      "final": [
+        0.05593572315267567,
+        0.17287904403666238,
+        0.9855356039709958,
+        0.3,
+        0.19310482668223988,
+        -0.19743319243248314
+      ]
+    },
+    {
+      "S0": 1.0,
+      "rtol": 1e-10,
+      "energy_initial": 1.5255630261676774,
+      "energy_drift": 4.440892098500626e-16,
+      "max_speed": 0.2,
+      "min_abs_S": 0.985535603970996,
+      "final": [
+        0.055935723152675684,
+        0.17287904403666238,
+        0.985535603970996,
+        0.3,
+        0.1931048266822399,
+        -0.1974331924324831
+      ]
+    },
+    {
+      "S0": 1.0,
+      "rtol": 1e-12,
+      "energy_initial": 1.5255630261676774,
+      "energy_drift": 4.440892098500626e-16,
+      "max_speed": 0.2,
+      "min_abs_S": 0.9855356039709962,
+      "final": [
+        0.05593572315267568,
+        0.1728790440366624,
+        0.9855356039709962,
+        0.3,
+        0.19310482668223986,
+        -0.19743319243248325
+      ]
+    },
+    {
+      "S0": -1.0,
+      "rtol": 1e-08,
+      "energy_initial": 1.5436226241432691,
+      "energy_drift": 4.440892098500626e-16,
+      "max_speed": 0.22814748036123308,
+      "min_abs_S": 0.9288951051845236,
+      "final": [
+        0.06415094727686235,
+        0.22814748036123308,
+        -0.9288951051845236,
+        0.3,
+        0.212063002784487,
+        0.3816767918191344
+      ]
+    },
+    {
+      "S0": -1.0,
+      "rtol": 1e-10,
+      "energy_initial": 1.5436226241432691,
+      "energy_drift": 4.440892098500626e-16,
+      "max_speed": 0.22814748036123314,
+      "min_abs_S": 0.9288951051845236,
+      "final": [
+        0.06415094727686235,
+        0.22814748036123314,
+        -0.9288951051845236,
+        0.3,
+        0.212063002784487,
+        0.38167679181913455
+      ]
+    },
+    {
+      "S0": -1.0,
+      "rtol": 1e-12,
+      "energy_initial": 1.5436226241432691,
+      "energy_drift": 4.440892098500626e-16,
+      "max_speed": 0.22814748036123308,
+      "min_abs_S": 0.9288951051845235,
+      "final": [
+        0.06415094727686237,
+        0.22814748036123308,
+        -0.9288951051845235,
+        0.3,
+        0.21206300278448695,
+        0.38167679181913455
+      ]
+    }
+  ],
+  "unbounded_energy_witnesses": [
+    {
+      "S": 1.0,
+      "p": -1.0,
+      "H": 1.2655630261676771,
+      "speed": 0.2,
+      "proper_curvature": 0.09599999999999999
+    },
+    {
+      "S": 1.0,
+      "p": -10.0,
+      "H": -0.5344369738323228,
+      "speed": 0.2,
+      "proper_curvature": 0.09599999999999999
+    },
+    {
+      "S": 1.0,
+      "p": -100.0,
+      "H": -18.534436973832324,
+      "speed": 0.2,
+      "proper_curvature": 0.09599999999999999
+    },
+    {
+      "S": 1.0,
+      "p": -1000.0,
+      "H": -198.53443697383233,
+      "speed": 0.2,
+      "proper_curvature": 0.09599999999999999
+    },
+    {
+      "S": -1.0,
+      "p": -1.0,
+      "H": 1.2836226241432689,
+      "speed": 0.2,
+      "proper_curvature": 0.09599999999999999
+    },
+    {
+      "S": -1.0,
+      "p": -10.0,
+      "H": -0.516377375856731,
+      "speed": 0.2,
+      "proper_curvature": 0.09599999999999999
+    },
+    {
+      "S": -1.0,
+      "p": -100.0,
+      "H": -18.51637737585673,
+      "speed": 0.2,
+      "proper_curvature": 0.09599999999999999
+    },
+    {
+      "S": -1.0,
+      "p": -1000.0,
+      "H": -198.51637737585673,
+      "speed": 0.2,
+      "proper_curvature": 0.09599999999999999
+    }
+  ],
+  "older_claim_counterexamples": {
+    "acceleration_zero_at_crossing": "0",
+    "jerk_at_crossing": "-1",
+    "frozen_identity_geometric_coupling": "2*K*S*lambda",
+    "status": "Older DEFI implications fail; newer foundations already acknowledges both"
+  },
+  "source_sha256": "689d8944024f6862f3435c71acef2e259fd5779032adfd8572da813d919d8b47"
+}
